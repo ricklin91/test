@@ -4,4 +4,8 @@ test for git
 good
 very good
 20220707
+<<<<<<< HEAD
 im fine thanks,im very fine fine fine
+=======
+im fine thanks,i don't fine
+>>>>>>> refs/remotes/origin/main
